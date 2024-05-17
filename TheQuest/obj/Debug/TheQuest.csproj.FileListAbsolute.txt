@@ -1,0 +1,42 @@
+C:\Programming\C#\TheQuest\bin\Debug\TheQuest.exe.config
+C:\Programming\C#\TheQuest\bin\Debug\TheQuest.exe
+C:\Programming\C#\TheQuest\bin\Debug\TheQuest.pdb
+C:\Programming\C#\TheQuest\obj\Debug\TheQuest.Form1.resources
+C:\Programming\C#\TheQuest\obj\Debug\TheQuest.Properties.Resources.resources
+C:\Programming\C#\TheQuest\obj\Debug\TheQuest.csproj.GenerateResource.cache
+C:\Programming\C#\TheQuest\obj\Debug\TheQuest.csproj.CoreCompileInputs.cache
+C:\Programming\C#\TheQuest\obj\Debug\TheQuest.exe
+C:\Programming\C#\TheQuest\obj\Debug\TheQuest.pdb
+C:\Programming\C#\TheQuest\bin\Debug\TheQuest.exe.manifest
+C:\Programming\C#\TheQuest\bin\Debug\TheQuest.application
+C:\Programming\C#\TheQuest\obj\Debug\TheQuest.exe.manifest
+C:\Programming\C#\TheQuest\obj\Debug\TheQuest.application
+C:\Programming\C#\TheQuest\obj\Debug\TheQuest.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\TheQuest\bin\Debug\TheQuest.exe.config
+C:\Users\ASUS\Desktop\TheQuest\bin\Debug\TheQuest.exe.manifest
+C:\Users\ASUS\Desktop\TheQuest\bin\Debug\TheQuest.application
+C:\Users\ASUS\Desktop\TheQuest\bin\Debug\TheQuest.exe
+C:\Users\ASUS\Desktop\TheQuest\bin\Debug\TheQuest.pdb
+C:\Users\ASUS\Desktop\TheQuest\obj\Debug\TheQuest.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\TheQuest\obj\Debug\TheQuest.Form1.resources
+C:\Users\ASUS\Desktop\TheQuest\obj\Debug\TheQuest.Properties.Resources.resources
+C:\Users\ASUS\Desktop\TheQuest\obj\Debug\TheQuest.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\TheQuest\obj\Debug\TheQuest.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\TheQuest\obj\Debug\TheQuest.exe.manifest
+C:\Users\ASUS\Desktop\TheQuest\obj\Debug\TheQuest.application
+C:\Users\ASUS\Desktop\TheQuest\obj\Debug\TheQuest.exe
+C:\Users\ASUS\Desktop\TheQuest\obj\Debug\TheQuest.pdb
+C:\Users\ASUS\Downloads\Telegram Desktop\5th\Projects\Software Engineering\TheQuest\bin\Debug\TheQuest.exe.config
+C:\Users\ASUS\Downloads\Telegram Desktop\5th\Projects\Software Engineering\TheQuest\bin\Debug\TheQuest.exe.manifest
+C:\Users\ASUS\Downloads\Telegram Desktop\5th\Projects\Software Engineering\TheQuest\bin\Debug\TheQuest.application
+C:\Users\ASUS\Downloads\Telegram Desktop\5th\Projects\Software Engineering\TheQuest\bin\Debug\TheQuest.exe
+C:\Users\ASUS\Downloads\Telegram Desktop\5th\Projects\Software Engineering\TheQuest\bin\Debug\TheQuest.pdb
+C:\Users\ASUS\Downloads\Telegram Desktop\5th\Projects\Software Engineering\TheQuest\obj\Debug\TheQuest.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\Telegram Desktop\5th\Projects\Software Engineering\TheQuest\obj\Debug\TheQuest.Form1.resources
+C:\Users\ASUS\Downloads\Telegram Desktop\5th\Projects\Software Engineering\TheQuest\obj\Debug\TheQuest.Properties.Resources.resources
+C:\Users\ASUS\Downloads\Telegram Desktop\5th\Projects\Software Engineering\TheQuest\obj\Debug\TheQuest.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\Telegram Desktop\5th\Projects\Software Engineering\TheQuest\obj\Debug\TheQuest.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Telegram Desktop\5th\Projects\Software Engineering\TheQuest\obj\Debug\TheQuest.exe.manifest
+C:\Users\ASUS\Downloads\Telegram Desktop\5th\Projects\Software Engineering\TheQuest\obj\Debug\TheQuest.application
+C:\Users\ASUS\Downloads\Telegram Desktop\5th\Projects\Software Engineering\TheQuest\obj\Debug\TheQuest.exe
+C:\Users\ASUS\Downloads\Telegram Desktop\5th\Projects\Software Engineering\TheQuest\obj\Debug\TheQuest.pdb
